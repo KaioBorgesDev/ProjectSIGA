@@ -16,7 +16,7 @@ Projetamos a interface do usuário utilizando a ferramenta Figma. Criamos protó
 Documentamos a gestão de configuração do software e as métricas utilizadas para monitorar o progresso do projeto no arquivo "Plano de Teste" disponível no repositório.
 
 ## Etapa 5 – SCRUM
-Aplicamos a metodologia SCRUM para a gestão do desenvolvimento do projeto. Utilizamos ferramentas como Burndown Chart e Microsoft Planner para acompanhar as tarefas e o progresso.
+Aplicamos um exemplo a metodologia SCRUM para a gestão do desenvolvimento do projeto. Utilizamos ferramentas como Burndown Chart e Microsoft Planner para acompanhar as tarefas e o progresso.
 
 [Burndown Chart no Lucidchart](https://lucid.app/lucidchart/ab72e587-325f-4ef6-a359-0054ae1f3e23/edit?viewport_loc=41%2C194%2C4039%2C1978%2C.Q4MUjXso07N&invitationId=inv_3afb1d58-380c-43bf-af70-edd4cbff82f1)
 
